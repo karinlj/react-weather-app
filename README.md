@@ -4,6 +4,8 @@
 
 Weather App with React.js and Openweathermap API
 
+![screenshot](https://github.com/karinlj/react-weather-app/issues/1)
+
 ## Installation
 
 To install
